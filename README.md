@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 9 |
+| 37 | 11 |
 
 ---
 
@@ -14,13 +14,15 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (5)
+- [bitmasks](#bitmasks) (2)
+- [brute force](#brute-force) (6)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (20)
-- [math](#math) (6)
+- [greedy](#greedy) (7)
+- [implementation](#implementation) (24)
+- [math](#math) (9)
 - [sortings](#sortings) (1)
-- [strings](#strings) (11)
+- [strings](#strings) (13)
 
 ---
 
@@ -36,6 +38,13 @@
 |---|---------|------------|----------|
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 579A | [Raising Bacteria](https://codeforces.com/contest/579/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/579/A%20-%20Raising%20Bacteria/solution.cpp) |
+| 1635A | [Min Or Sum](https://codeforces.com/contest/1635/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1635/A%20-%20Min%20Or%20Sum/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
@@ -45,6 +54,13 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 110B | [Lucky String](https://codeforces.com/contest/110/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/110/B%20-%20Lucky%20String/solution.cpp) |
 
 ### dp
 
@@ -62,6 +78,8 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1635A | [Min Or Sum](https://codeforces.com/contest/1635/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1635/A%20-%20Min%20Or%20Sum/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 
 ### implementation
 
@@ -69,7 +87,9 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/41/A%20-%20Translation/solution.c) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/59/A%20-%20Word/solution.c) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/136/A%20-%20Presents/solution.c) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.c) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/200/B%20-%20Drinks/solution.c) |
@@ -86,18 +106,23 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.c) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.c) |
+| 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
+| 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.c) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/200/B%20-%20Drinks/solution.c) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
+| 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 
 ### sortings
 
@@ -112,7 +137,9 @@
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/41/A%20-%20Translation/solution.c) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/59/A%20-%20Word/solution.c) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.c) |
+| 110B | [Lucky String](https://codeforces.com/contest/110/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/110/B%20-%20Lucky%20String/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.c) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/208/A%20-%20Dubstep/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.c) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
