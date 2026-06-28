@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 13 |
+| 42 | 13 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (28)
 - [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (14)
+- [strings](#strings) (15)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -107,6 +107,7 @@
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/520/A%20-%20Pangram/solution.c) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.c) |
+| 691B | [s-palindrome](https://codeforces.com/contest/691/problem/B) | 1600 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/691/B%20-%20s-palindrome/solution.cpp) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/705/A%20-%20Hulk/solution.c) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.c) |
@@ -160,6 +161,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.c) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/520/A%20-%20Pangram/solution.c) |
+| 691B | [s-palindrome](https://codeforces.com/contest/691/problem/B) | 1600 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/691/B%20-%20s-palindrome/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.c) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1023A | [Single Wildcard Pattern Matching](https://codeforces.com/contest/1023/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1023/A%20-%20Single%20Wildcard%20Pattern%20Matching/solution.cpp) |
