@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 16 |
+| 52 | 16 |
 
 ---
 
@@ -22,10 +22,10 @@
 - [dp](#dp) (2)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (31)
+- [implementation](#implementation) (32)
 - [math](#math) (14)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (18)
 - [two pointers](#two-pointers) (2)
 
@@ -149,6 +149,7 @@
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 
 ### math
 
@@ -181,6 +182,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
+| 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 
 ### strings
