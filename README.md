@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 56 | 16 |
+| 57 | 16 |
 
 ---
 
@@ -20,12 +20,12 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (33)
 - [math](#math) (14)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (18)
 - [two pointers](#two-pointers) (3)
 
@@ -100,6 +100,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.c) |
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
@@ -185,6 +186,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/160/A%20-%20Twins/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
