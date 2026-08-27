@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 17 |
+| 66 | 17 |
 
 ---
 
@@ -17,14 +17,14 @@
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (15)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [games](#games) (2)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (34)
-- [math](#math) (18)
+- [math](#math) (19)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (5)
 - [strings](#strings) (19)
@@ -88,6 +88,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 110B | [Lucky String](https://codeforces.com/contest/110/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/110/B%20-%20Lucky%20String/solution.cpp) |
+| 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.cpp) |
 
 ### data structures
@@ -190,6 +191,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2050D | [Digital string maximization](https://codeforces.com/contest/2050/problem/D) | 1300 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/2050/D%20-%20Digital%20string%20maximization/solution.cpp) |
