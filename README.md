@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 17 |
+| 71 | 17 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (20)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (34)
+- [implementation](#implementation) (35)
 - [math](#math) (22)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (5)
@@ -179,6 +179,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 
 ### math
