@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 17 |
+| 79 | 18 |
 
 ---
 
@@ -19,12 +19,13 @@
 - [brute force](#brute-force) (17)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (2)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (3)
 - [games](#games) (2)
-- [greedy](#greedy) (22)
+- [greedy](#greedy) (23)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (36)
-- [math](#math) (28)
+- [math](#math) (29)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (5)
 - [strings](#strings) (19)
@@ -99,12 +100,19 @@
 |---|---------|------------|----------|
 | 1800D | [Remove Two Letters](https://codeforces.com/contest/1800/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1800/D%20-%20Remove%20Two%20Letters/solution.cpp) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 
 ### games
 
@@ -123,6 +131,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1635A | [Min Or Sum](https://codeforces.com/contest/1635/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1635/A%20-%20Min%20Or%20Sum/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
@@ -201,6 +210,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
