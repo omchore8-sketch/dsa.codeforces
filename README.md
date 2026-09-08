@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 19 |
+| 88 | 19 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [greedy](#greedy) (28)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (38)
-- [math](#math) (33)
+- [math](#math) (34)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (6)
 - [strings](#strings) (19)
@@ -230,6 +230,7 @@
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
