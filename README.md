@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 88 | 19 |
+| 89 | 19 |
 
 ---
 
@@ -23,11 +23,11 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (3)
 - [games](#games) (2)
-- [greedy](#greedy) (28)
+- [greedy](#greedy) (29)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (38)
-- [math](#math) (34)
-- [number theory](#number-theory) (6)
+- [math](#math) (35)
+- [number theory](#number-theory) (7)
 - [sortings](#sortings) (6)
 - [strings](#strings) (19)
 - [two pointers](#two-pointers) (3)
@@ -144,6 +144,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.c) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [GNU C11](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.c) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1635A | [Min Or Sum](https://codeforces.com/contest/1635/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1635/A%20-%20Min%20Or%20Sum/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
@@ -231,6 +232,7 @@
 | 913A | [Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/913/A%20-%20Modular%20Exponentiation/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
@@ -260,6 +262,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/230/B%20-%20T-primes/solution.cpp) |
+| 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/omchore8-sketch/dsa.codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
